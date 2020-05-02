@@ -1,3 +1,5 @@
 # Titanic-Logistic-Regression
 
-https://www.kaggle.com/thelonecoder/titanic-logistic-regression
+You can download the Dataset From Kaggle : https://www.kaggle.com/c/titanic
+
+Link of NoteBook: https://www.kaggle.com/thelonecoder/titanic-logistic-regression
